@@ -1,0 +1,24 @@
+2023-09-29 21:30:41.760331-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
+2023-09-29 21:31:04.201377-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
+2023-09-29 21:33:06.125438-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
+2023-09-29 21:33:42.180617-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
+2023-09-29 21:34:22.636407-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
+2023-09-29 21:36:07.705309-05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ASPIRANTES" ya existe
+Table "ASPIRANTES" already exists; SQL statement:
+CREATE TABLE `aspirantes` (`cedula` INTEGER , `nombreCompleto` VARCHAR(255) , `edad` INTEGER , `exp` INTEGER , `profesion` VARCHAR(255) , `telefono` VARCHAR(255) , PRIMARY KEY (`cedula`) ) [42101-224]
